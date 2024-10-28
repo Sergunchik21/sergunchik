@@ -7,3 +7,13 @@
 body{
     background-color: antiquewhite;
 }
+
+
+
+.h1
+{
+    font-style: oblique;
+    color:aquamarine;
+    font-size:medium;
+    font-weight:200px;
+}
