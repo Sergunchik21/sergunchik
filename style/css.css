@@ -10,8 +10,10 @@ body{
 
 
 
-.h1
-{
-    font-style: oblique;
+.h1{
     color:aquamarine;
+
+}
+.p{
+    color: purple
 }
