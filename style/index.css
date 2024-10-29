@@ -1,8 +1,11 @@
 .body{
-    background-color: black;
+    background-color: blueviolet;
 }
 
-.text
-{
+.rel{
     color:blue;
+}
+
+.ol{
+    color:brown;
 }
