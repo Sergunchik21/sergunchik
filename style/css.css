@@ -1,4 +1,7 @@
+.h1{
+text-align: center;
+text-transform: capitalize;
+}
 .text{
-    color: blueviolet;
-    background-size: 20px;
+    background-color: black;
 }
