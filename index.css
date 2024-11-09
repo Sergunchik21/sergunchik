@@ -1,6 +1,7 @@
-.body {
-  background: linear-gradient(to bottom, red, yellow, pink);
+body {
+  background: linear-gradient(to right, blue, red);
 }
+
 .text {
   color: red;
 }
