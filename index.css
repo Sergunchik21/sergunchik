@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(124, 160, 165, 0.788);
+  background: linar-gradiet(to right, red, yellow, pink);
 }
 .text {
   color: red;
