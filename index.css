@@ -1,7 +1,8 @@
-body {
-  background: linear-gradient(to right, blue, red);
+body{
+  background-image:url(berserk-guts.gif);
+  background-color:#243CED;
+  color:yellow;
 }
-
 .text {
   color: red;
 }
