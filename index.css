@@ -1,4 +1,4 @@
-body {
+.body {
   background: linear-gradient(to bottom, red, yellow, pink);
 }
 .text {
@@ -9,5 +9,3 @@ h1,
 h2 {
   text-align: center;
 }
-
-
