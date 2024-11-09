@@ -1,5 +1,5 @@
 body {
-  background: linar-gradiet(to right, red, yellow, pink);
+  background: linear-gradient(to bottom, red, yellow, pink);
 }
 .text {
   color: red;
