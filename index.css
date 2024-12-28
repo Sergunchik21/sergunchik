@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom red, blue, purple);
+  background: linear-gradient(to-bottom, red, blue);
 }
 .text {
   color: red;
