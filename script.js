@@ -28,17 +28,17 @@ const styles = ["style1", "style2", "style3"];
 let currentStyleIndex = 0;
 
 changeStyleButton.addEventListener("click", () => {
-  // Удаляем текущий класс
+  
   square.classList.remove(styles[currentStyleIndex]);
 
-  // Увеличиваем индекс
+  
   currentStyleIndex++;
 
-  // Если индекс вышел за границы массива, возвращаем его к 0
+  
   if (currentStyleIndex >= styles.length) {
     currentStyleIndex = 0;
   }
 
-  // Добавляем новый класс
+ 
   square.classList.add(styles[currentStyleIndex]);
 });
