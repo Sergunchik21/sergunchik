@@ -1,4 +1,3 @@
-alert("Подождите пару секунд сайт загружается!");
 let current = 0;
 const myButton = document.getElementById('myButton');
 myButton.addEventListener("click", () => {
@@ -16,7 +15,7 @@ case 1:
       myButton.style.color = "green";
       break;
     default:
-      currentStyle = 0;
+      current = 0;
   }
   current++;
   if (current > 2) {
