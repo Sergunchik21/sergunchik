@@ -1,4 +1,4 @@
-alert("Подождите пару секунд сайт загружается!");
+alert("Подождите пару секунд сайт загружается");
 let current = 0;
 const myButton = document.getElementById('myButton');
 myButton.addEventListener("click", () => {
